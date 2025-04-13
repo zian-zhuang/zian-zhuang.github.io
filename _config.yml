@@ -21,7 +21,7 @@ repository               : "zian-zhuang/zian-zhuang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Fig.JPG"
+  avatar           : "profile.png"
   name             : "Zian"
   pronouns         : # example: "she/her"  
   bio              : "A PhD Candidate in Biostatistics"
