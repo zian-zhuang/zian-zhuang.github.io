@@ -25,7 +25,7 @@ Please click here for a more detailed [CV](/files/CV.pdf).
 - **The Hong Kong Polytechnic University**  
   *B.B.A. (Hons) in Financial Services*, GPA: 3.5/4.0  
   *Minor in Applied Mathematics*, GPA: 3.6/4.0 (Sep. 2015 – Aug. 2020)  
-  🏅 *Outstanding Academic Achievement Award (Top 3 in department)*
+  *Outstanding Academic Achievement Award*
 
 ---
 
@@ -54,7 +54,7 @@ Please click here for a more detailed [CV](/files/CV.pdf).
 
 ---
 
-## 👨‍🏫 Teaching Experience
+## Teaching Experience
 
 ### University of California, Los Angeles (2023 – Present)
 - TA for: Mathematical Statistics (202A/B), Linear Models (250A), Multivariate Biostatistics (250C), Survival Analysis (215)
