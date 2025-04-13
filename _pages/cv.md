@@ -15,7 +15,6 @@ redirect_to:
 Please click here for a more detailed [CV](/files/CV.pdf).
 
 
-{% include base_path %}
 
 ## 🎓 Education
 
