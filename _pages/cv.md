@@ -12,7 +12,7 @@ redirect_to:
 {% include base_path %}
 
 
-Please click here for a more detailed [CV](/files/CV.pdf).
+Please click here for a more detailed [CV]({{ base_path }}/files/CV.pdf).
 
 
 
